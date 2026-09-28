@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Ankita 👋
 
-<!--
-**Ankitapatra110/Ankitapatra110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Techno India University  
+💻 Learning by building real projects  
+🌱 Currently exploring JavaScript, React, Python & SQL
 
-Here are some ideas to get you started:
+🛠️ Tech I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C • Python • JavaScript • HTML • CSS • SQL • React
+
+🚀 Projects
+
+ 🗳️ E-Voting System with Face Recognition
+A college project using Python, OpenCV, face recognition and a web-based interface.
+
+⚛️ React Projects
+Small projects and assignments I'm building while learning React and JavaScript.
+
+📚 Currently Learning
+
+JavaScript → React → More practical projects
+
+🎯 My Goal
+
+To become a strong developer by consistently learning, building and improving.
+
+
+
+Learning → Building → Improving 🚀
